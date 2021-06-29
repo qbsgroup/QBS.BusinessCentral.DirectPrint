@@ -16,4 +16,4 @@ If you are running Cloud, you can use Cloud Printing or look at ISV solutions fr
 
 You can Direct Print any report that is printed via the Report Selections. Simply add the report to the Direct Print Setup table and it should work.
 
-![NewDbAndContainerSetup](/img/setup.png) 
+![setup](/img/Setup.png) 
