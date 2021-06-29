@@ -1,0 +1,27 @@
+{
+  "id": "424463a1-049d-4c01-8e3e-1b70b3018ccb",
+  "name": "DirectPrint - QBS Group",
+  "publisher": "Mark Brummel",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.qbsgroup.com/",
+  "showMyCode": true,
+  "runtime": "7.1",
+  "target": "OnPrem"
+}

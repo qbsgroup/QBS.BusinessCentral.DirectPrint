@@ -1,0 +1,6 @@
+.vscode/launch.json
+.vscode/rad.json
+.vscode/.alcache/*
+.alpackages/*
+*.app
+*.ps1
